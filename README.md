@@ -32,5 +32,16 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 <img width="1436" alt="Screen Shot 2021-04-18 at 12 30 30 PM" src="https://user-images.githubusercontent.com/70423368/115158202-eaf25300-a041-11eb-8761-a1d031ada980.png">
 
+# Visit the live site!
+https://shielded-harbor-96826.herokuapp.com/
+
+
+
+# Questions 
+If you have more questions about this application, you can contact me
+email: kassim.huggins@gmail.com
+GitHub username: khuggins1
+
+
 
 
